@@ -1,0 +1,22 @@
+\contentsline {section}{\numberline {0.1}Introduction}{1}
+\contentsline {subsection}{\numberline {0.1.1}Motivation}{1}
+\contentsline {subsection}{\numberline {0.1.2}State of the Art}{1}
+\contentsline {subsection}{\numberline {0.1.3}Requirements}{2}
+\contentsline {section}{\numberline {0.2}Aristotle}{3}
+\contentsline {subsection}{\numberline {0.2.1}Representational State Transfer}{3}
+\contentsline {subsection}{\numberline {0.2.2}The JVM, Java, and Scala}{5}
+\contentsline {subsection}{\numberline {0.2.3}Persistence}{7}
+\contentsline {subsection}{\numberline {0.2.4}Access Control}{7}
+\contentsline {subsubsection}{Authentication}{7}
+\contentsline {subsubsection}{Authorization}{8}
+\contentsline {subsection}{\numberline {0.2.5}Realtime(ish)}{10}
+\contentsline {section}{\numberline {0.3}Clients}{10}
+\contentsline {subsection}{\numberline {0.3.1}Darkhorse - an HTML5 browser based client}{10}
+\contentsline {subsection}{\numberline {0.3.2}Socrates - an iOS client}{10}
+\contentsline {subsection}{\numberline {0.3.3}Aristophanes - an Android client}{10}
+\contentsline {subsection}{\numberline {0.3.4}Plato - a ruby on rails static client}{10}
+\contentsline {section}{\numberline {0.4}Operations}{11}
+\contentsline {subsection}{\numberline {0.4.1}Load Balancing}{11}
+\contentsline {subsection}{\numberline {0.4.2}Continuous Integration and Deployment}{11}
+\contentsline {subsection}{\numberline {0.4.3}Content Distribution Schemes}{11}
+\contentsline {subsection}{\numberline {0.4.4}Versioning}{12}
